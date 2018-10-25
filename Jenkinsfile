@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Test'){
             steps {
-            echo 'QA'
+            echo 'QA 1243243'
 		  }
         }
         stage('Deploy') {
